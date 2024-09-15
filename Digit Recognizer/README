@@ -1,0 +1,11 @@
+# Solving [Kaggles's Digit Recognizer Competition](https://www.kaggle.com/competitions/digit-recognizer/overview)
+
+- thanks to [This NoteBook](https://www.kaggle.com/code/swapnilkumarnorge/mynameistorchpytorch) that gave me understanding to understand how to look at this problem through PyTorch's eyes. checking the link is totally recommended.
+
+I have tried to solve this problem using other great libraries such as Scikit-Learn and tensorflow with 98% accuracy. which is awesome.
+
+But with PyTorch's Custom CNN model's and internets Great help this time i've reached 99.36% accuracy which is beyond great!
+
+This File involve's my solution notebook, predictions, my CNN model's state_dict, and submission.csv from kaggle's own dataset
+for the train.csv and test.csv files please download them directly from kaggle .
+dataset link: https://www.kaggle.com/competitions/digit-recognizer/data
